@@ -1,0 +1,69 @@
+.thankyou-cart-container {
+  width: 400px;
+  background-color: #ffffff;
+  border: 2px solid lightcyan;
+  box-shadow: #165315;
+  margin-top: 100px;
+  margin-left: 600px;
+  position: fixed;
+  text-align: center;
+  color: #165315;
+}
+.cart-heading-cancel-icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 15px;
+}
+.thankyou-heading {
+  width: 80px;
+  height: 26px;
+  top: 37px;
+  left: 186px;
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 25.5px;
+  text-align: center;
+  color: #0f4811;
+}
+.thankyou-image {
+  width: 97px;
+  height: 98px;
+  top: 271px;
+  left: 178px;
+  gap: 0px;
+  opacity: 0px;
+}
+.paragraph {
+  color: #165315;
+  width: 230px;
+  height: 83px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+.thankyou-paragraph {
+  width: 380px;
+  height: 39px;
+  top: 411px;
+  left: 16px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+}
+.go-shopping-button {
+  background-color: #165315;
+  color: #ffffff;
+  border: none;
+  padding: 10px;
+  width: 220px;
+  margin-top:10px;
+  margin-bottom: 30px;
+}

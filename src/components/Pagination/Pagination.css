@@ -1,0 +1,23 @@
+.pagination-buttons-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.button {
+  background-color: #007bff;
+  border: none;
+  color: #ffffff;
+  height: 40px;
+  width: 70px;
+  margin-right: 10px;
+  border-radius: 3px;
+  font-weight: 600;
+}
+.button-active {
+  background-color: #0056b3;
+}
+.button-inactive {
+  background-color: lightgray;
+}

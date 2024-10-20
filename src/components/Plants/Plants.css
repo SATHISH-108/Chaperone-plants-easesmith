@@ -1,0 +1,44 @@
+.plants-buttons-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 80px;
+  margin-top: 20px;
+}
+.plants-btn {
+  background-color: #165315;
+  color: #ffffff;
+  width: 114px;
+  height: 37px;
+  top: 215px;
+  left: 69px;
+  border: none;
+  margin-right: 20px;
+}
+.pots-btn {
+  width: 114px;
+  height: 37px;
+  top: 215px;
+  left: 194px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  color: #0000004d;
+  border: 1px solid #0000004d;
+  background-color: #ffffff;
+}
+.lorem-ipsum-paragraph {
+  height: 99px;
+  width: 1400px;
+  top: 277px;
+  left: 70px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #838383;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 20px;
+}

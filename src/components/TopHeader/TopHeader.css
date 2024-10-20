@@ -1,0 +1,17 @@
+.top-header-container {
+  background-color: #165315;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: #ffffff;
+  font-family: Inter;
+}
+.top-header-heading-container {
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 800px;
+}

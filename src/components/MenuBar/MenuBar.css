@@ -1,0 +1,7 @@
+.menubar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-left: 10px;
+  margin-right: 10px;
+}

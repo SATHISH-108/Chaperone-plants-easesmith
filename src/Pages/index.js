@@ -1,0 +1,9 @@
+export { default as Blog } from "./Blog/Blog";
+export { default as FAQs } from "./FAQs/FAQs";
+export { default as Home } from "./Home/Home";
+export { default as OurServices } from "./OurServices/OurServices";
+export { default as PlantsPots } from "./PlantsPots/PlantsPots";
+export { default as Tools } from "./Tools/Tools";
+export { default as Navbar } from "./Navbar/Navbar";
+export { default as PageNotFound } from "./PageNotFound/PageNotFound";
+export { default as OurStory } from "./OurStory/OurStory";
